@@ -1,0 +1,1 @@
+We (Minecraft Administration Chat [mc-market]) tried, for several hours, to help him with setting up backup scripts and setting up ssh pubkeys. After a while, he quits, telling us to enjoy our "shit internet money", etc, etc
