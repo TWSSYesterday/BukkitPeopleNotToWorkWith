@@ -1,4 +1,4 @@
-Bukkit People Not To WorkWith
+Bukkit People Not To Work With
 =====================
 
 Bukkit people not to hire.
