@@ -18,5 +18,5 @@ public class Main extends JavaPlugin {
         saveDefaultConfig();
     }
  
- 
+ }
 ```
