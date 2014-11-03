@@ -20,3 +20,4 @@ public class Main extends JavaPlugin {
  
  }
 ```
+(also mostly a joke, pls 2 ignore)
